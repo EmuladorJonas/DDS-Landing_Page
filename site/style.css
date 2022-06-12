@@ -57,6 +57,7 @@ body{
     text-align: center;
     font-family: "Raleway";
     font-size: 5em;
+    color: white;
 }
 .text2{
     text-align: center;
@@ -64,4 +65,26 @@ body{
     font-family: "Raleway";
     font-size: 1,5em;
     font-style: italic;
+    color: white;
 }
+
+
+.rodape {
+    display: flex;
+    height: 50px;
+    padding: 32px;
+    background: linear-gradient(68.15deg, #1b1c27 16.62%, #2d2d33 85.61%);
+    align-items: center;
+    justify-content: center;
+}
+
+.rodapep {
+
+    text-align: center;
+    margin-top: 1%;
+    font-family: "Raleway";
+    font-size: 1em;
+    font-style: italic;
+    color: white;
+    
+  }
